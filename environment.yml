@@ -1,0 +1,7 @@
+name: phasemajoranas
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - adaptive=0.7.6
+  - kwant=1.4.0
